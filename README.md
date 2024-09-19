@@ -1,4 +1,4 @@
-📊 #Data Analysis Projects
+# 📊 Data Analysis Projects 
 This repository showcases my work in data analysis using Excel, SQL, PowerBI, Tableau, and Python. The projects highlight skills in data cleaning, analysis, and visualization.
 
 🗂️ Project Structure
