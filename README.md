@@ -1,7 +1,7 @@
 # 📊 Data Analysis Projects 
 This repository showcases my work in data analysis using Excel, SQL, PowerBI, Tableau, and Python. The projects highlight skills in data cleaning, analysis, and visualization.
 
-🗂️ Project Structure
+🗂️ Project Structure <br><br>
 📈 Excel Dashboards: Pivot tables, KPI tracking, and interactive dashboards.
 
 🗃️ SQL Queries: Data extraction, complex queries, and optimization.
@@ -13,9 +13,9 @@ This repository showcases my work in data analysis using Excel, SQL, PowerBI, Ta
 🐍 Python for Data Analysis: Data manipulation, EDA, and visualization using Pandas, NumPy, and Matplotlib.
 
 
-🔍 Notable Projects
-📊 E-Commerce (Excel)
-🧮 Analyze International Debt Statistics (SQL)
+🔍 Notable Projects <br><br>
+📊 E-Commerce (Excel) <br>
+🧮 Analyze International Debt Statistics (SQL) <br>
 🎬 Netflix EDA (Python)
 
 
